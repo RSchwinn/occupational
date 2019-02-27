@@ -1,25 +1,25 @@
 Occupation,States Licensed
 Barber,51
-Bus Driver, City/Transit,51
+Bus Driver City/Transit,51
 Cosmetologist,51
-Earth Driller, Water Well,51
+Earth Driller Water Well,51
 Emergency Medical Technician,51
 Pest Control Applicator,51
 School Bus Driver,51
-Truck Driver, Other,51
-Truck Driver, Tractor-Trailer,51
+Truck Driver Other,51
+Truck Driver Tractor-Trailer,51
 Vegetation Pesticide Applicator,51
 Manicurist,50
-Preschool Teacher, Public School,50
+Preschool Teacher Public School,50
 Skin Care Specialist,50
 Athletic Trainer,49
-Coach, Head (High School Sports),48
+Coach Head (High School Sports),48
 Landscape Contractor (Residential),48
 Landscape Contractor (Commercial),47
-Child Care Home, Family,44
+Child Care Home Family,44
 Massage Therapist,44
 Pharmacy Technician,44
-Fisher, Commercial,43
+Fisher Commercial,43
 Milk Sampler,42
 Makeup Artist,41
 Fire Alarm Installer,39
@@ -27,15 +27,15 @@ Mobile Home Installer,39
 HVAC Contractor (Commercial),37
 Security Alarm Installer,37
 Shampooer,37
-Sheet Metal Contractor, HVAC (Commercial),37
+Sheet Metal Contractor HVAC (Commercial),37
 Travel Guide,37
-Sheet Metal Contractor, HVAC (Residential),36
+Sheet Metal Contractor HVAC (Residential),36
 Veterinary Technician,36
 HVAC Contractor (Residential),35
-Security Guard, Unarmed,34
+Security Guard Unarmed,34
 Bill Collection Agency,31
 Mason Contractor (Residential),31
-Sheet Metal Contractor, Other (Residential),31
+Sheet Metal Contractor Other (Residential),31
 Auctioneer,30
 Carpenter/Cabinet Maker Contractor (Residential),30
 Cement Finishing Contractor (Residential),30
@@ -48,7 +48,7 @@ Door Repair Contractor (Residential),29
 Gaming Cage Worker,29
 Animal Breeder,28
 Gaming Dealer,28
-Midwife, Direct Entry,28
+Midwife Direct Entry,28
 Painting Contractor (Residential),28
 Occupation
 States Licensed
@@ -61,7 +61,7 @@ Pipelayer Contractor,27
 Glazier Contractor (Commercial),26
 Iron/Steel Contractor (Commercial),26
 Mason Contractor (Commercial),26
-Sheet Metal Contractor, Other (Commercial),26
+Sheet Metal Contractor Other (Commercial),26
 Carpenter/Cabinet Maker Contractor (Commercial),25
 Drywall Installation Contractor (Commercial),25
 Insulation Contractor (Commercial),25
@@ -72,7 +72,7 @@ Paving Contractor (Commercial),24
 Terrazzo Contractor (Commercial),23
 Wildlife Control Operator,23
 Floor Sander Contractor (Commercial),22
-Interpreter, Sign Language,22
+Interpreter Sign Language,22
 Optician,22
 Painting Contractor (Commercial),22
 Crane Operator,18
@@ -89,10 +89,10 @@ Travel Agency,7
 Tree Trimmer,7
 Packer,6
 Psychiatric Technician,5
-Teacher Assistant, Non-Instructional,5
+Teacher Assistant Non-Instructional,5
 Interior Designer,4
 Funeral Attendant,3
-Still Machine Setter, Dairy Equipment,3
+Still Machine Setter Dairy Equipment,3
 Dietetic Technician,2
 Electrical Helper,2
 Log Scaler,2
