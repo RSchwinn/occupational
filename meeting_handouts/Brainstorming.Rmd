@@ -1,10 +1,10 @@
 ---
 title: "Occupational Licensing"
-author: "Richard Schwinn & Daniel Brown"
+author: "R Schwinn & D Brown"
 date: "2/27/2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 subtitle: Brainstorming Session
 margins: 2cm
 abstract: The goal is to explore the possibility of creating novel occupational licensing research. The cornerstone of this research would be our detailed SUSB time-series data. SUSB allows us to zero-in on small firms in detailed NAICS industries to identify the effects of occupational licensing legislation across time.
