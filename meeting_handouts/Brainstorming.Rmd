@@ -1,0 +1,47 @@
+---
+title: "Occupational Licensing"
+author: "Richard Schwinn & Daniel Brown"
+date: "2/27/2019"
+output:
+  pdf_document: default
+  html_document: default
+subtitle: Brainstorming Session
+margins: 2cm
+abstract: The goal is to explore the possibility of creating novel occupational licensing research. The cornerstone of this research would be our detailed SUSB time-series data. SUSB allows us to zero-in on small firms in detailed NAICS industries to identify the effects of occupational licensing legislation across time.
+---
+
+# 1 NAICS Identifiable Occupations
+
+- Professional versus low-wage occupations
+- Let's walk through the IJ list of occupations
+- List of professions in OER sponsored research
+    - Florist
+    - Cosmetologist
+    - Electrician
+    - Barber - Hairdresser
+    - HVAC
+    - Manicurist/Pedicurist
+    - Massage Therapist
+    - Plumber
+    - Skin Care Specialist
+
+# 2 Legal History
+
+- Have occupational licensing requirements changed over the years? 
+- Can / should we create a database of the enactment of legal barriers to free participation in these occupations?
+
+# 3 Best References
+
+- 
+- 
+- 
+- 
+
+# 4 Next steps
+
+- 
+- 
+- 
+- 
+
+
