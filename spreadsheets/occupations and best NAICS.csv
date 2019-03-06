@@ -1,0 +1,123 @@
+"","Occupation","States Licensed","Closest NAICS Code","Anything Else Included?"
+"1","Barber",51,812111,"Beautician services Beauty and barber shops, combined Beauty parlors Beauty salons Beauty shops Cosmetology salons or shops Esthetician (i.e., skin care) services Facial salons Hair stylist salons or shops, unisex or women’s Hair stylist services, unisex or women’s Hairdresser services Hairdressing salons or shops, unisex or women’s
+Make-up (except permanent) salons Unisex hair stylist shops"
+"2","Bus Driver City/Transit",51,485113,"Bus and Other Motor Vehicle Transit Systems"
+"3","Cosmetologist",51,812112,"Cutting, trimming, shampooing, coloring, waving, or styling hair; Providing facials; and Applying makeup (except permanent makeup)."
+"4","Earth Driller Water Well",51,238910,"Blasting, building demolition Foundation digging (i.e., excavation) Concrete breaking and cutting for demolition
+Foundation drilling contractors Cutting new rights of way Grading construction sites Demolition, building and structure Line slashing or cutting (except maintenance) Dewatering contractors Septic system contractors
+Dirt moving for construction Trenching (except underwater) Equipment rental (except crane), construction, with operator Underground tank (except hazardous) removal Excavating, earthmoving, or land clearing contractors
+Wrecking, building or other structure"
+"5","Emergency Medical Technician",51,621910,"Air ambulance services
+Ambulance services, air or ground
+Emergency medical transportation services, air or ground Rescue services, air Rescue services, medical"
+"6","Pest Control Applicator",51,115310,"Cruising timber Estimating timber Fire prevention, forest Firefighting, forest Forest management plans preparation
+Forestry services Pest control services, forestry Reforestation Timber valuation"
+"7","School Bus Driver",51,485410,"School and Employee Bus Transportation"
+"8","Truck Driver Other",51,484230,"Long-distance automobile carrier trucking Long-distance refrigerated product trucking Long-distance bulk liquid trucking, Long-distance trucking of waste, Long-distance hazardous material trucking"
+"9","Truck Driver Tractor-Trailer",51,NA,NA
+"10","Vegetation Pesticide Applicator",51,325320,"Pesticide and Other Agricultural Chemical Manufacturing"
+"11","Manicurist",50,812113,"Nail Salons (good fit)"
+"12","Preschool Teacher Public School",50,624410,"Child day care babysitting services, Nursery schools, Child or infant day care centers, Preschool centers"
+"13","Skin Care Specialist",50,812111,"Beautician services Beauty and barber shops, combined Beauty parlors Beauty salons Beauty shops Cosmetology salons or shops Esthetician (i.e., skin care) services Facial salons Hair stylist salons or shops, unisex or women’s Hair stylist services, unisex or women’s Hairdresser services Hairdressing salons or shops, unisex or women’s
+Make-up (except permanent) salons Unisex hair stylist shops"
+"14","Athletic Trainer",49,711219,"This is NAICS code also involves the general sports industry, not a great fit"
+"15","Coach Head (High School Sports)",48,611620,"Sports and Recreation Instruction"
+"16","Landscape Contractor (Residential)",48,561730,"Establishments primarily engaged in providing 
+landscape care and maintenance services and/or installing trees, shrubs, plants, lawns, or gardens and Establishments primarily engaged in providing these services along with the design of landscape plans and/or the construction (i.e., installation) of walkways, retaining walls, decks, fences, ponds, and similar structures."
+"17","Landscape Contractor (Commercial)",47,561730,"Establishments primarily engaged in providing 
+landscape care and maintenance services and/or installing trees, shrubs, plants, lawns, or gardens and Establishments primarily engaged in providing these services along with the design of landscape plans and/or the construction (i.e., installation) of walkways, retaining walls, decks, fences, ponds, and similar structures."
+"18","Child Care Home Family",44,624410,"Child day care babysitting services, Nursery schools, Child or infant day care centers, Preschool centers"
+"19","Massage Therapist",44,812199,"Depilatory or electrolysis (i.e., hair removal) salons Saunas Ear piercing services Steam or turkish baths Hair replacement (except by offices of physicians) or weaving services Tanning salons Massage parlors Tattoo parlors
+Permanent makeup salons"
+"20","Pharmacy Technician",44,446110,"Pharmacies and Drug Stores"
+"21","Fisher Commercial",43,114111,"Finfish Fishing"
+"22","Milk Sampler",42,311511,"Manufacturing milk and milk products (ice cream, yogurt, whipped toppings, etc.)"
+"23","Makeup Artist",41,812199,"Depilatory or electrolysis (i.e., hair removal) salons Saunas Ear piercing services Steam or turkish baths Hair replacement (except by offices of physicians) or weaving services Tanning salons Massage parlors Tattoo parlorsPermanent makeup salons"
+"24","Fire Alarm Installer",39,561621,"security alarm systems, such as burglar and fire alarms, along with installation, repair, or monitoring services"
+"25","Mobile Home Installer",39,321991,"Manufactured Home (Mobile Home) Manufacturing"
+"26","HVAC Contractor (Commercial)",37,238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+"27","Security Alarm Installer",37,561621,"security alarm systems, such as burglar and fire alarms, along with installation, repair, or monitoring services"
+"28","Shampooer",37,812112,"Cutting, trimming, shampooing, coloring, waving, or styling hair; Providing facials; and Applying makeup (except permanent makeup)."
+"29","Sheet Metal Contractor HVAC (Commercial)",37,238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+"30","Travel Guide",37,561520,"Tour operators (i.e., arranging and assembling tours), Travel tour operators, Wholesale tour operators"
+"31","Sheet Metal Contractor HVAC (Residential)",36,238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+"32","Veterinary Technician",36,541940,"Veterinary Services"
+"33","HVAC Contractor (Residential)",35,238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+"34","Security Guard Unarmed",34,561612,"Security Guards and Patrol Services"
+"35","Bill Collection Agency",31,561440,"Collection Agencies"
+"36","Mason Contractor (Residential)",31,238140,"Masonry Contractors"
+"37","Sheet Metal Contractor Other (Residential)",31,NA,NA
+"38","Auctioneer",30,NA,"May be lumped in with 561990 (administrative support)"
+"39","Carpenter/Cabinet Maker Contractor (Residential)",30,238350,"Cabinets, doors, and paneling. Does not include carpeting"
+"40","Cement Finishing Contractor (Residential)",30,238110,"Poured Concrete Foundation and Structure Contractors"
+"41","Drywall Installation Contractor (Residential)",30,238310,"Drywall, ceiling, plastering contracting, insulation"
+"42","Gaming Supervisor",30,721120,"Casino-hotels and resorts with casinos in them"
+"43","Glazier Contractor (Residential)",30,238150,"Glass and Glazing Contractors"
+"44","Insulation Contractor (Residential)",30,238310,"Drywall, ceiling, plastering contracting, insulation"
+"45","Iron/Steel Contractor (Residential)",30,238120,"Steel and Concrete Contractors"
+"46","Door Repair Contractor (Residential)",29,238350,"Cabinets, doors, and paneling. Does not include carpeting"
+"47","Gaming Cage Worker",29,713290,"Bingo, off-track betting, or slot machine parlors
+Coin-operated gambling device concession operators (i.e., supplying and servicing in others’ facilities), Bookmakers, Lottery ticket sales agents (except retail stores), Card rooms (e.g., poker rooms)"
+"48","Animal Breeder",28,115210,"Support Activities for Animal Production"
+"49","Gaming Dealer",28,713290,"Bingo, off-track betting, or slot machine parlors
+Coin-operated gambling device concession operators (i.e., supplying and servicing in others’ facilities), Bookmakers, Lottery ticket sales agents (except retail stores), Card rooms (e.g., poker rooms)"
+"50","Midwife Direct Entry",28,621399,"Offices of all other miscellaneous Health Practicioners (lots of other occupations in there)"
+"51","Painting Contractor (Residential)",28,238320,"Painting and Wall Covering Contractor"
+"52","Paving Contractor (Residential)",28,238990,"All Other Specialty Trade Contractors"
+"53","Slot Supervisor",28,713290,"Bingo, off-track betting, or slot machine parlors
+Coin-operated gambling device concession operators (i.e., supplying and servicing in others’ facilities), Bookmakers, Lottery ticket sales agents (except retail stores), Card rooms (e.g., poker rooms)"
+"54","Taxidermist",28,423850,"Service Establishment Equipment and Supplies Merchant Wholesalers-poor fit"
+"55","Terrazzo Contractor (Residential)",28,238340,"Tile Contractor (good fit)"
+"56","Floor Sander Contractor (Residential)",27,238990,"All Other Specialty Trade Contractors"
+"57","Pipelayer Contractor",27,332996,"fabricating, such as cutting, threading, and bending metal pipes and pipe fittings made from purchased metal pipe."
+"58","Glazier Contractor (Commercial)",26,238150,"Glass and Glazing Contractors"
+"59","Iron/Steel Contractor (Commercial)",26,238120,"Steel and Concrete Contractors"
+"60","Mason Contractor (Commercial)",26,238140,"Masonry Contractors"
+"61","Sheet Metal Contractor Other (Commercial)",26,NA,NA
+"62","Carpenter/Cabinet Maker Contractor (Commercial)",25,238350,"Cabinets, doors, and paneling. Does not include carpeting"
+"63","Drywall Installation Contractor (Commercial)",25,238310,"Drywall, ceiling, plastering contracting, insulation"
+"64","Insulation Contractor (Commercial)",25,238310,"Drywall, ceiling, plastering contracting, insulation"
+"65","Weigher",25,NA,NA
+"66","Cement Finishing Contractor (Commercial)",24,238110,"Poured Concrete Foundation and Structure Contractors"
+"67","Door Repair Contractor (Commercial)",24,238350,"Cabinets, doors, and paneling. Does not include carpeting"
+"68","Paving Contractor (Commercial)",24,238990,"Billboard erection, Outdoor swimming pool construction, Cleaning building interiors during and immediately after construction, Paver, brick (e.g., driveway, patio, sidewalk), installation, Crane rental with operator, Paving, residential and commercial driveway and parking lot, Driveway paving or sealing, Sandblasting building exteriors, Fence installation Scaffold erecting and dismantling
+Interlocking brick and block installation
+Steeplejack work
+Manufactured (mobile) home, set up and tie-down"
+"69","Terrazzo Contractor (Commercial)",23,238340,"Tile Contractor (good fit)"
+"70","Wildlife Control Operator",23,561710,"exterminating and controlling birds, mosquitoes, 
+rodents, termites, and other insects and pests (except for crop production and forestry production). Establishments providing fumigation services are included in this industry."
+"71","Floor Sander Contractor (Commercial)",22,238990,"All Other Specialty Trade Contractors"
+"72","Interpreter Sign Language",22,541930,"primarily engaged in translating written material and 
+interpreting speech from one language to another and establishments primarily engaged in providing sign language services."
+"73","Optician",22,621320,"establishments of health practitioners having the 
+degree of O.D. (Doctor of Optometry) primarily engaged in the independent practice of optometry."
+"74","Painting Contractor (Commercial)",22,238320,"Painting and Wall Covering Contractor"
+"75","Crane Operator",18,532412,"engaged in renting or leasing heavy equipment without operators that may be used for construction, mining, or forestry, such as bulldozers, earthmoving equipment, well-drilling machinery and equipment, or cranes."
+"76","Taxi Driver/Chauffeur",16,485310,"Taxi Serivce"
+"77","Locksmith",14,561622,"Locksmiths"
+"78","Bartender",13,722410,"Alcoholic beverage drinking places, Bars (i.e., drinking places), alcoholic beverage, Cocktail lounges, Drinking places (i.e., bars, lounges, taverns), alcoholic, Lounges, cocktail, Nightclubs, alcoholic beverage, Taverns (i.e., drinking places),"
+"79","Farm Labor Contractor",10,115115,"engaged in supplying labor for agricultural production or harvesting."
+"80","Upholsterer",10,811420,"Reupholstering furniture; Refinishing furniture; Repairing furniture"
+"81","Animal Trainer",9,812910,"pet care services (except veterinary), such as boarding, grooming, sitting, and training pets."
+"82","Dental Assistant",9,621210,"Offices of Dentists (includes actual doctors and oral surgeons)-poor fit"
+"83","Animal Control Officer",7,NA,NA
+"84","Title Examiner",7,NA,NA
+"85","Travel Agency",7,NA,NA
+"86","Tree Trimmer",7,NA,NA
+"87","Packer",6,NA,NA
+"88","Psychiatric Technician",5,NA,NA
+"89","Teacher Assistant Non-Instructional",5,NA,NA
+"90","Interior Designer",4,NA,NA
+"91","Funeral Attendant",3,NA,NA
+"92","Still Machine Setter Dairy Equipment",3,NA,NA
+"93","Dietetic Technician",2,NA,NA
+"94","Electrical Helper",2,NA,NA
+"95","Log Scaler",2,NA,NA
+"96","Nursery Worker",2,NA,NA
+"97","Conveyor Operator",1,NA,NA
+"98","Florist",1,NA,NA
+"99","Forest Worker",1,NA,NA
+"100","Home Entertainment Installer",1,NA,NA
+"101","Psychiatric Aide",1,NA,NA
+"102","Social and Human Service Assistant",1,NA,NA
