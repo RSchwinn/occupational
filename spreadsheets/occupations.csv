@@ -1,105 +1,135 @@
-Occupation,States Licensed
-Barber,51
-Bus Driver City/Transit,51
-Cosmetologist,51
-Earth Driller Water Well,51
-Emergency Medical Technician,51
-Pest Control Applicator,51
-School Bus Driver,51
-Truck Driver Other,51
-Truck Driver Tractor-Trailer,51
-Vegetation Pesticide Applicator,51
-Manicurist,50
-Preschool Teacher Public School,50
-Skin Care Specialist,50
-Athletic Trainer,49
-Coach Head (High School Sports),48
-Landscape Contractor (Residential),48
-Landscape Contractor (Commercial),47
-Child Care Home Family,44
-Massage Therapist,44
-Pharmacy Technician,44
-Fisher Commercial,43
-Milk Sampler,42
-Makeup Artist,41
-Fire Alarm Installer,39
-Mobile Home Installer,39
-HVAC Contractor (Commercial),37
-Security Alarm Installer,37
-Shampooer,37
-Sheet Metal Contractor HVAC (Commercial),37
-Travel Guide,37
-Sheet Metal Contractor HVAC (Residential),36
-Veterinary Technician,36
-HVAC Contractor (Residential),35
-Security Guard Unarmed,34
-Bill Collection Agency,31
-Mason Contractor (Residential),31
-Sheet Metal Contractor Other (Residential),31
-Auctioneer,30
-Carpenter/Cabinet Maker Contractor (Residential),30
-Cement Finishing Contractor (Residential),30
-Drywall Installation Contractor (Residential),30
-Gaming Supervisor,30
-Glazier Contractor (Residential),30
-Insulation Contractor (Residential),30
-Iron/Steel Contractor (Residential),30
-Door Repair Contractor (Residential),29
-Gaming Cage Worker,29
-Animal Breeder,28
-Gaming Dealer,28
-Midwife Direct Entry,28
-Painting Contractor (Residential),28
-Occupation
-States Licensed
-Paving Contractor (Residential),28
-Slot Supervisor,28
-Taxidermist,28
-Terrazzo Contractor (Residential),28
-Floor Sander Contractor (Residential),27
-Pipelayer Contractor,27
-Glazier Contractor (Commercial),26
-Iron/Steel Contractor (Commercial),26
-Mason Contractor (Commercial),26
-Sheet Metal Contractor Other (Commercial),26
-Carpenter/Cabinet Maker Contractor (Commercial),25
-Drywall Installation Contractor (Commercial),25
-Insulation Contractor (Commercial),25
-Weigher,25
-Cement Finishing Contractor (Commercial),24
-Door Repair Contractor (Commercial),24
-Paving Contractor (Commercial),24
-Terrazzo Contractor (Commercial),23
-Wildlife Control Operator,23
-Floor Sander Contractor (Commercial),22
-Interpreter Sign Language,22
-Optician,22
-Painting Contractor (Commercial),22
-Crane Operator,18
-Taxi Driver/Chauffeur,16
-Locksmith,14
-Bartender,13
-Farm Labor Contractor,10
-Upholsterer,10
-Animal Trainer,9
-Dental Assistant,9
-Animal Control Officer,7
-Title Examiner,7
-Travel Agency,7
-Tree Trimmer,7
-Packer,6
-Psychiatric Technician,5
-Teacher Assistant Non-Instructional,5
-Interior Designer,4
-Funeral Attendant,3
-Still Machine Setter Dairy Equipment,3
-Dietetic Technician,2
-Electrical Helper,2
-Log Scaler,2
-Nursery Worker,2
-Conveyor Operator,1
-Florist,1
-Forest Worker,1
-Home Entertainment Installer,1
-Psychiatric Aide,1
-Social and Human Service Assistant,1
+Occupation,States Licensed,Closest NAICS Code,Anything Else Included?,,
+Barber,51,812111,"Beautician services Beauty and barber shops, combined Beauty parlors Beauty salons Beauty shops Cosmetology salons or shops Esthetician (i.e., skin care) services Facial salons Hair stylist salons or shops, unisex or women’s Hair stylist services, unisex or women’s Hairdresser services Hairdressing salons or shops, unisex or women’s
+Make-up (except permanent) salons Unisex hair stylist shops",,https://classcodes.com/lookup/naics-code-812111
+Bus Driver City/Transit,51,485113,Bus and Other Motor Vehicle Transit Systems ,,https://classcodes.com/lookup/naics-code-485113
+Cosmetologist,51,812112,"Cutting, trimming, shampooing, coloring, waving, or styling 
+hair; Providing facials; and Applying makeup (except permanent makeup).",,https://classcodes.com/lookup/naics-code-812112
+Earth Driller Water Well,51,238910,"Blasting, building demolition Foundation digging (i.e., 
+excavation) Concrete breaking and cutting for demolition
+Foundation drilling contractors Cutting new rights of way Grading construction sites Demolition, building and structure Line slashing or cutting (except maintenance) Dewatering contractors Septic system contractors
+Dirt moving for construction Trenching (except underwater) Equipment rental (except crane), construction, with operator Underground tank (except hazardous) removal Excavating, earthmoving, or land clearing contractors
+Wrecking, building or other structure",,https://classcodes.com/lookup/naics-code-238910
+Emergency Medical Technician,51,621910,"Air ambulance services
+Ambulance services, air or ground
+Emergency medical transportation services, air or ground Rescue services, air Rescue services, medical",,https://classcodes.com/lookup/naics-code-621910
+Pest Control Applicator,51,115310,"Cruising timber Estimating timber Fire prevention, forest Firefighting, forest Forest management plans preparation
+Forestry services Pest control services, forestry Reforestation Timber valuation",,https://classcodes.com/lookup/naics-code-115310
+School Bus Driver,51,485410,School and Employee Bus Transportation,,https://classcodes.com/lookup/naics-code-485410
+Truck Driver Other,51,484230,"Long-distance automobile carrier trucking Long-distance 
+refrigerated product trucking Long-distance bulk liquid trucking, Long-distance trucking of waste, Long-distance hazardous material trucking",,https://classcodes.com/lookup/naics-code-484230
+Truck Driver Tractor-Trailer,51,,,,https://classcodes.com/lookup/naics-code-
+Vegetation Pesticide Applicator,51,325320,Pesticide and Other Agricultural Chemical Manufacturing,,https://classcodes.com/lookup/naics-code-325320
+Manicurist,50,812113,Nail Salons (good fit),,https://classcodes.com/lookup/naics-code-812113
+Preschool Teacher Public School,50,624410,"Child day care babysitting services, Nursery schools, Child or 
+infant day care centers, Preschool centers",,https://classcodes.com/lookup/naics-code-624410
+Skin Care Specialist,50,812111,"Beautician services Beauty and barber shops, combined Beauty parlors Beauty salons Beauty shops Cosmetology salons or shops Esthetician (i.e., skin care) services Facial salons Hair stylist salons or shops, unisex or women’s Hair stylist services, unisex or women’s Hairdresser services Hairdressing salons or shops, unisex or women’s
+Make-up (except permanent) salons Unisex hair stylist shops",,https://classcodes.com/lookup/naics-code-812111
+Athletic Trainer,49,711219,"This is NAICS code also involves the general sports industry, 
+not a great fit",,https://classcodes.com/lookup/naics-code-711219
+Coach Head (High School Sports),48,611620,Sports and Recreation Instruction,,https://classcodes.com/lookup/naics-code-611620
+Landscape Contractor (Residential),48,561730,"Establishments primarily engaged in providing 
+landscape care and maintenance services and/or installing trees, shrubs, plants, lawns, or gardens and Establishments primarily engaged in providing these services along with the design of landscape plans and/or the construction (i.e., installation) of walkways, retaining walls, decks, fences, ponds, and similar structures.",,https://classcodes.com/lookup/naics-code-561730
+Landscape Contractor (Commercial),47,561730,"Establishments primarily engaged in providing 
+landscape care and maintenance services and/or installing trees, shrubs, plants, lawns, or gardens and Establishments primarily engaged in providing these services along with the design of landscape plans and/or the construction (i.e., installation) of walkways, retaining walls, decks, fences, ponds, and similar structures.",,https://classcodes.com/lookup/naics-code-561730
+Child Care Home Family,44,624410,"Child day care babysitting services, Nursery schools, 
+Child or infant day care centers, Preschool centers",,https://classcodes.com/lookup/naics-code-624410
+Massage Therapist,44,812199,"Depilatory or electrolysis (i.e., hair removal) salons Saunas Ear piercing services Steam or turkish baths Hair replacement (except by offices of physicians) or weaving services Tanning salons Massage parlors Tattoo parlors
+Permanent makeup salons",,https://classcodes.com/lookup/naics-code-812199
+Pharmacy Technician,44,446110,Pharmacies and Drug Stores,,https://classcodes.com/lookup/naics-code-446110
+Fisher Commercial,43,114111,Finfish Fishing,,https://classcodes.com/lookup/naics-code-114111
+Milk Sampler,42,311511,"Manufacturing milk and milk products (ice cream, yogurt, whipped toppings, etc.)",,https://classcodes.com/lookup/naics-code-311511
+Makeup Artist,41,812199,"Depilatory or electrolysis (i.e., hair removal) salons Saunas 
+Ear piercing services Steam or turkish baths Hair replacement (except by offices of physicians) or weaving services Tanning salons Massage parlors Tattoo parlorsPermanent makeup salons",,https://classcodes.com/lookup/naics-code-812199
+Fire Alarm Installer,39,561621,"security alarm systems, such as burglar and fire alarms, along with installation, repair, or monitoring services",,https://classcodes.com/lookup/naics-code-561621
+Mobile Home Installer,39,321991,Manufactured Home (Mobile Home) Manufacturing,,https://classcodes.com/lookup/naics-code-321991
+HVAC Contractor (Commercial),37,238220,"Plumbing, Heating, and Air-Conditioning Contractors",,https://classcodes.com/lookup/naics-code-238220
+Security Alarm Installer,37,561621,"security alarm systems, such as burglar and fire alarms, 
+along with installation, repair, or monitoring services",,https://classcodes.com/lookup/naics-code-561621
+Shampooer,37,812112,"Cutting, trimming, shampooing, coloring, waving, or styling 
+hair; Providing facials; and Applying makeup (except permanent makeup).",,https://classcodes.com/lookup/naics-code-812112
+Sheet Metal Contractor HVAC (Commercial),37,238220,"Plumbing, Heating, and Air-Conditioning Contractors",,https://classcodes.com/lookup/naics-code-238220
+Travel Guide,37,561520,"Tour operators (i.e., arranging and assembling tours), Travel 
+tour operators, Wholesale tour operators",,https://classcodes.com/lookup/naics-code-561520
+Sheet Metal Contractor HVAC (Residential),36,238220,"Plumbing, Heating, and Air-Conditioning Contractors",,https://classcodes.com/lookup/naics-code-238220
+Veterinary Technician,36,541940,Veterinary Services,,https://classcodes.com/lookup/naics-code-541940
+HVAC Contractor (Residential),35,238220,"Plumbing, Heating, and Air-Conditioning Contractors",,https://classcodes.com/lookup/naics-code-238220
+Security Guard Unarmed,34,561612,Security Guards and Patrol Services,,https://classcodes.com/lookup/naics-code-561612
+Bill Collection Agency,31,561440,Collection Agencies,,https://classcodes.com/lookup/naics-code-561440
+Mason Contractor (Residential),31,238140,Masonry Contractors,,https://classcodes.com/lookup/naics-code-238140
+Sheet Metal Contractor Other (Residential),31,,,,https://classcodes.com/lookup/naics-code-
+Auctioneer,30,,May be lumped in with 561990 (administrative support),,https://classcodes.com/lookup/naics-code-
+Carpenter/Cabinet Maker Contractor (Residential),30,238350,"Cabinets, doors, and paneling. Does not include carpeting",,https://classcodes.com/lookup/naics-code-238350
+Cement Finishing Contractor (Residential),30,238110,Poured Concrete Foundation and Structure Contractors,,https://classcodes.com/lookup/naics-code-238110
+Drywall Installation Contractor (Residential),30,238310,"Drywall, ceiling, plastering contracting, insulation",,https://classcodes.com/lookup/naics-code-238310
+Gaming Supervisor,30,721120,Casino-hotels and resorts with casinos in them,,https://classcodes.com/lookup/naics-code-721120
+Glazier Contractor (Residential),30,238150,Glass and Glazing Contractors,,https://classcodes.com/lookup/naics-code-238150
+Insulation Contractor (Residential),30,238310,"Drywall, ceiling, plastering contracting, insulation",,https://classcodes.com/lookup/naics-code-238310
+Iron/Steel Contractor (Residential),30,238120,Steel and Concrete Contractors,,https://classcodes.com/lookup/naics-code-238120
+Door Repair Contractor (Residential),29,238350,"Cabinets, doors, and paneling. Does not include carpeting",,https://classcodes.com/lookup/naics-code-238350
+Gaming Cage Worker,29,713290,"Bingo, off-track betting, or slot machine parlors
+Coin-operated gambling device concession operators (i.e., supplying and servicing in others’ facilities), Bookmakers, Lottery ticket sales agents (except retail stores), Card rooms (e.g., poker rooms)",,https://classcodes.com/lookup/naics-code-713290
+Animal Breeder,28,115210,Support Activities for Animal Production,,https://classcodes.com/lookup/naics-code-115210
+Gaming Dealer,28,713290,"Bingo, off-track betting, or slot machine parlors
+Coin-operated gambling device concession operators (i.e., supplying and servicing in others’ facilities), Bookmakers, Lottery ticket sales agents (except retail stores), Card rooms (e.g., poker rooms)",,https://classcodes.com/lookup/naics-code-713290
+Midwife Direct Entry,28,621399,Offices of all other miscellaneous Health Practicioners (lots of other occupations in there),,https://classcodes.com/lookup/naics-code-621399
+Painting Contractor (Residential),28,238320,Painting and Wall Covering Contractor,,https://classcodes.com/lookup/naics-code-238320
+Paving Contractor (Residential),28,238990,All Other Specialty Trade Contractors,,https://classcodes.com/lookup/naics-code-238990
+Slot Supervisor,28,713290,"Bingo, off-track betting, or slot machine parlors
+Coin-operated gambling device concession operators (i.e., supplying and servicing in others’ facilities), Bookmakers, Lottery ticket sales agents (except retail stores), Card rooms (e.g., poker rooms)",,https://classcodes.com/lookup/naics-code-713290
+Taxidermist,28,423850,Service Establishment Equipment and Supplies Merchant Wholesalers-poor fit,,https://classcodes.com/lookup/naics-code-423850
+Terrazzo Contractor (Residential),28,238340,Tile Contractor (good fit),,https://classcodes.com/lookup/naics-code-238340
+Floor Sander Contractor (Residential),27,238990,All Other Specialty Trade Contractors,,https://classcodes.com/lookup/naics-code-238990
+Pipelayer Contractor,27,332996,"fabricating, such as cutting, threading, and bending metal 
+pipes and pipe fittings made from purchased metal pipe.",,https://classcodes.com/lookup/naics-code-332996
+Glazier Contractor (Commercial),26,238150,Glass and Glazing Contractors,,https://classcodes.com/lookup/naics-code-238150
+Iron/Steel Contractor (Commercial),26,238120,Steel and Concrete Contractors,,https://classcodes.com/lookup/naics-code-238120
+Mason Contractor (Commercial),26,238140,Masonry Contractors,,https://classcodes.com/lookup/naics-code-238140
+Sheet Metal Contractor Other (Commercial),26,,,,https://classcodes.com/lookup/naics-code-
+Carpenter/Cabinet Maker Contractor (Commercial),25,238350,"Cabinets, doors, and paneling. Does not include carpeting",,https://classcodes.com/lookup/naics-code-238350
+Drywall Installation Contractor (Commercial),25,238310,"Drywall, ceiling, plastering contracting, insulation",,https://classcodes.com/lookup/naics-code-238310
+Insulation Contractor (Commercial),25,238310,"Drywall, ceiling, plastering contracting, insulation",,https://classcodes.com/lookup/naics-code-238310
+Weigher,25,,,,https://classcodes.com/lookup/naics-code-
+Cement Finishing Contractor (Commercial),24,238110,Poured Concrete Foundation and Structure Contractors,,https://classcodes.com/lookup/naics-code-238110
+Door Repair Contractor (Commercial),24,238350,"Cabinets, doors, and paneling. Does not include carpeting",,https://classcodes.com/lookup/naics-code-238350
+Paving Contractor (Commercial),24,238990,"Billboard erection, Outdoor swimming pool construction, Cleaning building interiors during and immediately after construction, Paver, brick (e.g., driveway, patio, sidewalk), installation, Crane rental with operator, Paving, residential and commercial driveway and parking lot, Driveway paving or sealing, Sandblasting building exteriors, Fence installation Scaffold erecting and dismantling
+Interlocking brick and block installation
+Steeplejack work
+Manufactured (mobile) home, set up and tie-down",,https://classcodes.com/lookup/naics-code-238990
+Terrazzo Contractor (Commercial),23,238340,Tile Contractor (good fit),,https://classcodes.com/lookup/naics-code-238340
+Wildlife Control Operator,23,561710,"exterminating and controlling birds, mosquitoes, 
+rodents, termites, and other insects and pests (except for crop production and forestry production). Establishments providing fumigation services are included in this industry.",,https://classcodes.com/lookup/naics-code-561710
+Floor Sander Contractor (Commercial),22,238990,All Other Specialty Trade Contractors,,https://classcodes.com/lookup/naics-code-238990
+Interpreter Sign Language,22,541930,"primarily engaged in translating written material and 
+interpreting speech from one language to another and establishments primarily engaged in providing sign language services.",,https://classcodes.com/lookup/naics-code-541930
+Optician,22,621320,"establishments of health practitioners having the 
+degree of O.D. (Doctor of Optometry) primarily engaged in the independent practice of optometry.",,https://classcodes.com/lookup/naics-code-621320
+Painting Contractor (Commercial),22,238320,Painting and Wall Covering Contractor,,https://classcodes.com/lookup/naics-code-238320
+Crane Operator,18,532412,"engaged in renting or leasing heavy equipment without 
+operators that may be used for construction, mining, or forestry, such as bulldozers, earthmoving equipment, well-drilling machinery and equipment, or cranes.",,https://classcodes.com/lookup/naics-code-532412
+Taxi Driver/Chauffeur,16,485310,Taxi Serivce,,https://classcodes.com/lookup/naics-code-485310
+Locksmith,14,561622,Locksmiths,,https://classcodes.com/lookup/naics-code-561622
+Bartender,13,722410,"Alcoholic beverage drinking places, Bars (i.e., drinking places), alcoholic beverage, Cocktail lounges, Drinking places (i.e., bars, lounges, taverns), alcoholic, Lounges, cocktail, Nightclubs, alcoholic beverage, Taverns (i.e., drinking places),",,https://classcodes.com/lookup/naics-code-722410
+Farm Labor Contractor,10,115115,engaged in supplying labor for agricultural production or harvesting.,,https://classcodes.com/lookup/naics-code-115115
+Upholsterer,10,811420,Reupholstering furniture; Refinishing furniture; Repairing furniture,,https://classcodes.com/lookup/naics-code-811420
+Animal Trainer,9,812910,"pet care services (except veterinary), such as boarding, grooming, sitting, and training pets.",,https://classcodes.com/lookup/naics-code-812910
+Dental Assistant,9,621210,Offices of Dentists (includes actual doctors and oral surgeons)-poor fit,,https://classcodes.com/lookup/naics-code-621210
+Animal Control Officer,7,,,,
+Title Examiner,7,,,,
+Travel Agency,7,,,,
+Tree Trimmer,7,,,,
+Packer,6,,,,
+Psychiatric Technician,5,,,,
+Teacher Assistant Non-Instructional,5,,,,
+Interior Designer,4,,,,
+Funeral Attendant,3,,,,
+Still Machine Setter Dairy Equipment,3,,,,
+Dietetic Technician,2,,,,
+Electrical Helper,2,,,,
+Log Scaler,2,,,,
+Nursery Worker,2,,,,
+Conveyor Operator,1,,,,
+Florist,1,,,,
+Forest Worker,1,,,,
+Home Entertainment Installer,1,,,,
+Psychiatric Aide,1,,,,
+Social and Human Service Assistant,1,,,,
